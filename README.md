@@ -3,7 +3,6 @@
 ---
 
 Endereço: XXXX - Marilia - SP
-
 ---
 Nacionalidade: Brasileiro
 ---
