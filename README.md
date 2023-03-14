@@ -8,7 +8,7 @@ Nacionalidade: Brasileiro
 Contato: XXXXXXXXXXX@gmail.com 
 ---
 Experiencia:
+---
 
 Aluno unimar
-
 ---
